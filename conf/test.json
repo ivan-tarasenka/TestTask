@@ -1,0 +1,36 @@
+{
+    "login": "pipeget799@bankrau.com",
+    "pwd": "superTestPassword!",
+    "name": "Test",
+    "code": "TA",
+    "description": "Description test project",
+    "case": {
+        "title": "Create",
+        "description": "Create a test for the following E2E scenario at qase.io",
+        "severity": "1",
+        "file": "conf/image.for.test.jpg",
+        "steps": [
+            {
+                "step": "Login"
+            },
+            {
+                "step": "Create a new Project"
+            },
+            {
+                "step": "In the new project create a new test case"
+            },
+            {
+                "step": "Create case"
+            },
+            {
+                "step": "Add an attachment"
+            },
+            {
+                "step": "Save the test case"
+            },
+            {
+                "step": "Verify it’s present in the list of test cases"
+            }
+        ]
+    }
+}
